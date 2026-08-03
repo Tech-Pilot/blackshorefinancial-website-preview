@@ -3,5 +3,5 @@ PUBLIC GITHUB PAGES REVIEW
 Lead submission and tracking are disabled. Business facts and approvals are still being verified.
 This static snapshot is for visual and content review only. It cannot accept consultation requests and is not approved for production use.
 Review URL: https://tech-pilot.github.io/blackshorefinancial-website-preview
-Preview build commit: 79cebad637d0fa361717b3e3e90e3efa3dda392a
+Preview build commit: f417125f7fdbf20c38a921ba98e1eabe6052892c
 Rendered HTML routes: 19, plus 404.
