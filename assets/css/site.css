@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Inter";
-    src: url("/blackshorefinancial-website-preview/assets/fonts/inter-latin-variable.woff2?preview=e3a274205c8fe2a31c1894c9de2c4bd15f5dc0d3") format("woff2-variations");
+    src: url("/blackshorefinancial-website-preview/assets/fonts/inter-latin-variable.woff2?preview=a0577b6530c0617c2c405c12983606a0b49adbbe") format("woff2-variations");
     font-style: normal;
     font-weight: 100 900;
     font-display: swap;
@@ -8,7 +8,7 @@
 
 @font-face {
     font-family: "Source Serif 4";
-    src: url("/blackshorefinancial-website-preview/assets/fonts/source-serif-4-latin-variable.woff2?preview=e3a274205c8fe2a31c1894c9de2c4bd15f5dc0d3") format("woff2-variations");
+    src: url("/blackshorefinancial-website-preview/assets/fonts/source-serif-4-latin-variable.woff2?preview=a0577b6530c0617c2c405c12983606a0b49adbbe") format("woff2-variations");
     font-style: normal;
     font-weight: 200 900;
     font-display: swap;
@@ -236,6 +236,7 @@ code { padding: .15rem .35rem; border: 1px solid var(--border); border-radius: 4
 .status-pending { color: #78510a; }
 .status-owner-reported { color: #78510a; }
 .status-verified { color: var(--success); }
+.license-detail { margin: .55rem 0 .45rem; color: var(--ink); font-size: .82rem; line-height: 1.55; }
 .state-verification-copy { margin: .45rem 0 .7rem; color: var(--muted); font-size: .78rem; }
 .official-lookup { display: inline-flex; min-height: 44px; align-items: center; font-size: .78rem; font-weight: 720; }
 .availability-section { padding-top: clamp(4rem, 7vw, 6rem); }
